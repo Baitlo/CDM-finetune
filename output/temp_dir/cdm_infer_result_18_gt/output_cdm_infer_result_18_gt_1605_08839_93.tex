@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\begin{array} {c} { { \mathcolor[RGB]{0,0,15}{\hfill} \mathcolor[RGB]{0,0,30}{\parallel} { \mathcolor[RGB]{0,0,45}{𝐀} } ^ { \mathcolor[RGB]{0,0,60}{\gamma} } \mathcolor[RGB]{0,0,75}{-} { \mathcolor[RGB]{0,0,90}{𝐁} } ^ { \mathcolor[RGB]{0,0,105}{\gamma} } \mathcolor[RGB]{0,0,120}{\parallel} \mathcolor[RGB]{0,0,135}{\le} \mathcolor[RGB]{0,0,150}{\gamma} { \mathcolor[RGB]{0,0,165}{r} } ^ { \mathcolor[RGB]{0,0,180}{\gamma} \mathcolor[RGB]{0,0,195}{-} \mathcolor[RGB]{0,0,210}{1} } \mathcolor[RGB]{0,0,225}{\parallel} \mathcolor[RGB]{0,0,240}{𝐀} \mathcolor[RGB]{0,0,255}{-} \mathcolor[RGB]{0,15,0}{𝐁} \mathcolor[RGB]{0,15,15}{\parallel} \mathcolor[RGB]{0,15,30}{.} \mathcolor[RGB]{0,15,45}{\hfill} } } \end{array}
+\end{displaymath}
+\end{document}
+

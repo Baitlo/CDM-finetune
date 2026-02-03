@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\mathcolor[RGB]{0,0,15}{\Delta} \mathcolor[RGB]{0,0,30}{Q} \mathcolor[RGB]{0,0,45}{=} \mathcolor[RGB]{0,0,60}{-} { \mathcolor[RGB]{0,0,75}{\oint} } _ { \mathcolor[RGB]{0,0,90}{0} } ^ { \mathcolor[RGB]{0,0,105}{2} \mathcolor[RGB]{0,0,120}{\pi} } \mathcolor[RGB]{0,0,135}{𝑑} { \mathcolor[RGB]{0,0,150}{k} } _ { \mathcolor[RGB]{0,0,165}{y} } \mathcolor[RGB]{0,0,180}{\frac { \mathcolor[RGB]{0,0,195}{\partial} { \mathcolor[RGB]{0,0,210}{P} } _ { \mathcolor[RGB]{0,0,225}{x} } \mathcolor[RGB]{0,0,240}{(} { \mathcolor[RGB]{0,0,255}{k} } _ { \mathcolor[RGB]{0,15,0}{y} } \mathcolor[RGB]{0,15,15}{)} } { \mathcolor[RGB]{0,15,30}{\partial} { \mathcolor[RGB]{0,15,45}{k} } _ { \mathcolor[RGB]{0,15,60}{y} } } } \mathcolor[RGB]{0,15,75}{.} \mathcolor[RGB]{0,15,90}{(} \mathcolor[RGB]{0,15,105}{1} \mathcolor[RGB]{0,15,120}{7} \mathcolor[RGB]{0,15,135}{)}
+\end{displaymath}
+\end{document}
+

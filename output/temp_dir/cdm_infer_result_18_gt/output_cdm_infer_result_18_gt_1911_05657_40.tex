@@ -1,0 +1,25 @@
+
+\documentclass[12pt]{article}
+\usepackage[landscape]{geometry}
+\usepackage{geometry}
+\geometry{a5paper,scale=0.98}
+\pagestyle{empty}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{upgreek}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\begin{document}
+\makeatletter
+\renewcommand*{\@textcolor}[3]{%
+  \protect\leavevmode
+  \begingroup
+    \color#1{#2}#3%
+  \endgroup
+}
+\makeatother
+\begin{displaymath}
+\begin{array} {c} { { \mathcolor[RGB]{0,0,15}{\hfill} \mathcolor[RGB]{0,0,30}{\sum} _ { \mathcolor[RGB]{0,0,45}{n} \mathcolor[RGB]{0,0,60}{=} \mathcolor[RGB]{0,0,75}{0} } ^ { \mathcolor[RGB]{0,0,90}{\infty} } { \mathcolor[RGB]{0,0,105}{\int} } _ { \mathcolor[RGB]{0,0,120}{0} } ^ { \mathcolor[RGB]{0,0,135}{1} } \mathcolor[RGB]{0,0,150}{\varphi} \mathcolor[RGB]{0,0,165}{(} \mathcolor[RGB]{0,0,180}{\parallel} \mathcolor[RGB]{0,0,195}{d} { \mathcolor[RGB]{0,0,210}{f} } _ { \mathcolor[RGB]{0,0,225}{n} } \mathcolor[RGB]{0,0,240}{(} \mathcolor[RGB]{0,0,255}{t} \mathcolor[RGB]{0,15,0}{)} \mathcolor[RGB]{0,15,15}{\parallel} \mathcolor[RGB]{0,15,30}{)} \mathcolor[RGB]{0,15,45}{𝑑} \mathcolor[RGB]{0,15,60}{t} \mathcolor[RGB]{0,15,75}{<} \mathcolor[RGB]{0,15,90}{+} \mathcolor[RGB]{0,15,105}{\infty} \mathcolor[RGB]{0,15,120}{\hfill} } } \end{array}
+\end{displaymath}
+\end{document}
+
