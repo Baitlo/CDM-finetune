@@ -589,4 +589,36 @@ The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
-and
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (2210.39966pt too wide) detected at line 23
+[]
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! Interruption.
+<argument> ...\__shipout_drop_firstpage_specials: 
+                                                  \set@typeset@protect \hook...
+l.24 \end{document}
+                   
+? 
+! Emergency stop.
+<argument> ...\__shipout_drop_firstpage_specials: 
+                                                  \set@typeset@protect \hook...
+l.24 \end{document}
+                   
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 3383 strings out of 478287
+ 47794 string characters out of 5849290
+ 344919 words of memory out of 5000000
+ 21579 multiletter control sequences out of 15000+600000
+ 474753 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,12n,62p,1391b,136s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

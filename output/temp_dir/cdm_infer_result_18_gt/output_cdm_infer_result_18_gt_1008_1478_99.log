@@ -416,4 +416,75 @@ and I'll forget about whatever was undefined.
 l.22 ...} } \mathcolor[RGB]{0,0,240}{,} \mathcolor
                                                   [RGB]{0,0,255}{(} \mathcol...
 The control sequence at the end of the top line
-of your err
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{,} \mathcolor[RGB]{0,0,255}{(} \mathcolor
+                                                  [RGB]{0,15,0}{8} \mathcolo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...}{(} \mathcolor[RGB]{0,15,0}{8} \mathcolor
+                                                  [RGB]{0,15,15}{7} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{8} \mathcolor[RGB]{0,15,15}{7} \mathcolor
+                                                  [RGB]{0,15,30}{)} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{7} \mathcolor[RGB]{0,15,30}{)} \mathcolor
+                                                  [RGB]{0,15,45}{\hfill} } }...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (729.7635pt too wide) detected at line 23
+[]
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+! Interruption.
+<argument> ...\__shipout_drop_firstpage_specials: 
+                                                  \set@typeset@protect \hook...
+l.24 \end{document}
+                   
+? 
+! Emergency stop.
+<argument> ...\__shipout_drop_firstpage_specials: 
+                                                  \set@typeset@protect \hook...
+l.24 \end{document}
+                   
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 3384 strings out of 478287
+ 47792 string characters out of 5849290
+ 342917 words of memory out of 5000000
+ 21580 multiletter control sequences out of 15000+600000
+ 474753 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,62p,802b,138s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

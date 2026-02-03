@@ -324,4 +324,92 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 l.22 ...athcolor[RGB]{0,0,120}{Q} } _ { \mathcolor
-                                                  [RGB]{0,0,135}{n} } \m
+                                                  [RGB]{0,0,135}{n} } \mathc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{ \mathcolor[RGB]{0,0,135}{n} } \mathcolor
+                                                  [RGB]{0,0,150}{.} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...} } \mathcolor[RGB]{0,0,150}{.} \mathcolor
+                                                  [RGB]{0,0,165}{(} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{.} \mathcolor[RGB]{0,0,165}{(} \mathcolor
+                                                  [RGB]{0,0,180}{1} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{(} \mathcolor[RGB]{0,0,180}{1} \mathcolor
+                                                  [RGB]{0,0,195}{1} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{1} \mathcolor[RGB]{0,0,195}{1} \mathcolor
+                                                  [RGB]{0,0,210}{)} \mathcol...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 ...{1} \mathcolor[RGB]{0,0,210}{)} \mathcolor
+                                                  [RGB]{0,0,225}{\hfill} } }...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (521.21124pt too wide) detected at line 23
+[]
+ []
+
+! Interruption.
+\@makecol ... \relax \xdef \@freelist {\@freelist 
+                                                  \@midlist }\global \let \@...
+l.24 \end{document}
+                   
+? 
+! Emergency stop.
+\@makecol ... \relax \xdef \@freelist {\@freelist 
+                                                  \@midlist }\global \let \@...
+l.24 \end{document}
+                   
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 3380 strings out of 478287
+ 47689 string characters out of 5849290
+ 341919 words of memory out of 5000000
+ 21578 multiletter control sequences out of 15000+600000
+ 474753 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,612b,127s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

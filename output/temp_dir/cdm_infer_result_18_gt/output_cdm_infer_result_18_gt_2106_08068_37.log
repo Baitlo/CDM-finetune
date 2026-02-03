@@ -596,4 +596,92 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-<argument> ...[RGB]{0,15,135}{q} } } } \mathcolor
+<argument> ...[RGB]{0,15,135}{q} } } } \mathcolor 
+                                                  [RGB]{0,15,150}{)} \mathco...
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...color [RGB]{0,15,150}{)} \mathcolor 
+                                                  [RGB]{0,15,165}{)} { \stac...
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument>  \mathcolor 
+                       [RGB]{0,15,180}{W} 
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...GB]{0,15,180}{W} } } ^ { \mathcolor 
+                                                  [RGB]{0,15,195}{2} } \math...
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...lor [RGB]{0,15,195}{2} } \mathcolor 
+                                                  [RGB]{0,15,210}{+} \mathco...
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...color [RGB]{0,15,210}{+} \mathcolor 
+                                                  [RGB]{0,15,225}{(} \mathco...
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Interruption.
+<to be read again> 
+                   [
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+
+? 
+! Emergency stop.
+<to be read again> 
+                   [
+l.22 ... { ~ } { \mathcolor[RGB]{0,105,0}{W} } } }
+                                                   } \mathcolor[RGB]{0,105,1...
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 3383 strings out of 478287
+ 47712 string characters out of 5849290
+ 342919 words of memory out of 5000000
+ 21581 multiletter control sequences out of 15000+600000
+ 474753 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,16n,62p,4766b,153s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

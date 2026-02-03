@@ -228,4 +228,37 @@ LaTeX Font Info:    ... okay on input line 12.
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count279
-\scra
+\scratchdimen=\dimen169
+\scratchbox=\box53
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen170
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks24
+)
+! Interruption.
+<to be read again> 
+                   xdef 
+l.21 \begin{displaymath}
+                        
+? 
+! Emergency stop.
+<to be read again> 
+                   xdef 
+l.21 \begin{displaymath}
+                        
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 3337 strings out of 478287
+ 47061 string characters out of 5849290
+ 340921 words of memory out of 5000000
+ 21552 multiletter control sequences out of 15000+600000
+ 470872 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,1n,62p,299b,74s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
