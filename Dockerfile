@@ -13,13 +13,17 @@ RUN apt-get update \
     && apt-get install -y texlive-full \
     && pdflatex -v
 
-RUN git clone https://github.com/ImageMagick/ImageMagick.git ImageMagick-7.1.1 \
-    && cd ImageMagick-7.1.1 \
+ARG IM_VER=7.1.1-2
+RUN apt-get update && apt-get install -y wget xz-utils build-essential ca-certificates \
+    && wget -O ImageMagick.tar.xz https://imagemagick.org/archive/releases/ImageMagick-${IM_VER}.tar.xz \
+    && tar -xf ImageMagick.tar.xz \
+    && cd ImageMagick-${IM_VER} \
     && ./configure \
-    && make \
+    && make -j"$(nproc)" \
     && make install \
-    && ldconfig /usr/local/lib \
+    && ldconfig \
     && convert --version
+
 
 WORKDIR /code
 
