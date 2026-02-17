@@ -1,0 +1,657 @@
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [7, 8, 31, 33], "token": "A"}
+{"bbox": [34, 7, 43, 42], "token": "("}
+{"bbox": [43, 11, 55, 34], "token": "t"}
+{"bbox": [56, 7, 66, 42], "token": ")"}
+{"bbox": [78, 20, 102, 29], "token": "="}
+{"bbox": [112, 9, 138, 34], "token": "\\nabla"}
+{"bbox": [140, 9, 166, 34], "token": "\\nabla"}
+{"bbox": [168, 9, 194, 34], "token": "\\nabla"}
+{"bbox": [195, 9, 221, 34], "token": "\\nabla"}
+{"bbox": [223, 9, 249, 34], "token": "\\nabla"}
+{"bbox": [251, 9, 277, 34], "token": "\\nabla"}
+{"bbox": [287, 22, 293, 27], "token": "\\cdot"}
+{"bbox": [302, 9, 328, 34], "token": "\\nabla"}
+{"bbox": [338, 22, 344, 27], "token": "\\cdot"}
+{"bbox": [354, 9, 380, 34], "token": "\\nabla"}
+{"bbox": [382, 9, 408, 34], "token": "\\nabla"}
+{"bbox": [418, 22, 424, 27], "token": "\\cdot"}
+{"bbox": [433, 9, 459, 34], "token": "\\nabla"}
+{"bbox": [469, 22, 475, 27], "token": "\\cdot"}
+{"bbox": [485, 9, 511, 34], "token": "\\nabla"}
+{"bbox": [521, 22, 527, 27], "token": "\\cdot"}
+{"bbox": [537, 9, 563, 34], "token": "\\nabla"}
+{"bbox": [573, 22, 579, 27], "token": "\\cdot"}
+{"bbox": [588, 9, 614, 34], "token": "\\nabla"}
+{"bbox": [624, 22, 630, 27], "token": "\\cdot"}
+{"bbox": [640, 9, 666, 34], "token": "\\nabla"}
+{"bbox": [676, 22, 682, 27], "token": "\\cdot"}
+{"bbox": [692, 9, 718, 34], "token": "\\nabla"}
+{"bbox": [728, 22, 734, 27], "token": "\\cdot"}
+{"bbox": [743, 9, 769, 34], "token": "\\nabla"}
+{"bbox": [779, 22, 785, 27], "token": "\\cdot"}
+{"bbox": [795, 9, 821, 34], "token": "\\nabla"}
+{"bbox": [831, 22, 837, 27], "token": "\\cdot"}
+{"bbox": [847, 9, 873, 34], "token": "\\nabla"}
+{"bbox": [883, 22, 889, 27], "token": "\\cdot"}
+{"bbox": [898, 9, 924, 34], "token": "\\nabla"}
+{"bbox": [934, 22, 940, 27], "token": "\\cdot"}
+{"bbox": [950, 9, 976, 34], "token": "\\nabla"}
+{"bbox": [986, 22, 992, 27], "token": "\\cdot"}
+{"bbox": [1002, 9, 1028, 34], "token": "\\nabla"}
+{"bbox": [1038, 22, 1044, 27], "token": "\\cdot"}
+{"bbox": [1053, 9, 1079, 34], "token": "\\nabla"}
+{"bbox": [1089, 22, 1095, 27], "token": "\\cdot"}
+{"bbox": [1105, 9, 1131, 34], "token": "\\nabla"}
+{"bbox": [1141, 22, 1147, 27], "token": "\\cdot"}
+{"bbox": [1157, 9, 1183, 34], "token": "\\nabla"}
+{"bbox": [1193, 22, 1199, 27], "token": "\\cdot"}
+{"bbox": [1208, 9, 1234, 34], "token": "\\nabla"}
+{"bbox": [1244, 22, 1250, 27], "token": "\\cdot"}
+{"bbox": [1260, 9, 1286, 34], "token": "\\nabla"}
+{"bbox": [1296, 22, 1302, 27], "token": "\\cdot"}
+{"bbox": [1311, 9, 1337, 34], "token": "\\nabla"}
+{"bbox": [1348, 22, 1354, 27], "token": "\\cdot"}
+{"bbox": [1363, 9, 1389, 34], "token": "\\nabla"}
+{"bbox": [1399, 22, 1405, 27], "token": "\\cdot"}
+{"bbox": [1415, 9, 1441, 34], "token": "\\nabla"}
+{"bbox": [1451, 22, 1457, 27], "token": "\\cdot"}
+{"bbox": [1466, 9, 1492, 34], "token": "\\nabla"}
+{"bbox": [1503, 22, 1509, 27], "token": "\\cdot"}
+{"bbox": [1518, 9, 1544, 34], "token": "\\nabla"}
+{"bbox": [1554, 22, 1560, 27], "token": "\\cdot"}
+{"bbox": [1570, 9, 1596, 34], "token": "\\nabla"}
+{"bbox": [1606, 22, 1612, 27], "token": "\\cdot"}
+{"bbox": [1621, 9, 1647, 34], "token": "\\nabla"}
+{"bbox": [1657, 22, 1663, 27], "token": "\\cdot"}
+{"bbox": [1673, 9, 1699, 34], "token": "\\nabla"}
+{"bbox": [1709, 22, 1715, 27], "token": "\\cdot"}
+{"bbox": [1725, 9, 1751, 34], "token": "\\nabla"}
+{"bbox": [1761, 22, 1767, 27], "token": "\\cdot"}
+{"bbox": [1776, 9, 1802, 34], "token": "\\nabla"}
+{"bbox": [1812, 22, 1818, 27], "token": "\\cdot"}
+{"bbox": [1828, 9, 1854, 34], "token": "\\nabla"}
+{"bbox": [1856, 9, 1882, 34], "token": "\\nabla"}
+{"bbox": [1892, 22, 1898, 27], "token": "\\cdot"}
+{"bbox": [1907, 9, 1933, 34], "token": "\\nabla"}
+{"bbox": [1943, 22, 1949, 27], "token": "\\cdot"}
+{"bbox": [1959, 9, 1985, 34], "token": "\\nabla"}
+{"bbox": [1995, 22, 2001, 27], "token": "\\cdot"}
+{"bbox": [2011, 9, 2037, 34], "token": "\\nabla"}
+{"bbox": [2047, 22, 2053, 27], "token": "\\cdot"}
+{"bbox": [2062, 9, 2088, 34], "token": "\\nabla"}
+{"bbox": [2090, 9, 2116, 34], "token": "\\nabla"}
+{"bbox": [2126, 22, 2132, 27], "token": "\\cdot"}
+{"bbox": [2142, 9, 2168, 34], "token": "\\nabla"}
+{"bbox": [2178, 22, 2184, 27], "token": "\\cdot"}
+{"bbox": [2193, 9, 2219, 34], "token": "\\nabla"}
+{"bbox": [2229, 22, 2235, 27], "token": "\\cdot"}
+{"bbox": [2245, 9, 2271, 34], "token": "\\nabla"}
+{"bbox": [2273, 9, 2299, 34], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\cdot"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\;"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\;"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\;"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\;"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\;"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\nabla"}
+{"bbox": [], "token": "\\hfill"}

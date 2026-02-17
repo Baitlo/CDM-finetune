@@ -74,10 +74,11 @@ if __name__ == "__main__":
         
     
     temp_dir=f"render_temp_dir"
-    try:
-        shutil.rmtree(temp_dir)
-    except:
-        pass
+    # try:
+    #     shutil.rmtree(temp_dir)
+    # except:
+    #     pass
+
     latex_dir = os.path.join(temp_dir, "texes")
     pdf_dir = os.path.join(temp_dir, "pdfs")
     os.makedirs(latex_dir, exist_ok=True)
@@ -109,8 +110,8 @@ if __name__ == "__main__":
     print("total num:", total_num, "render success num:", success_num)
     with open(output_path, "w") as f:
         f.write(json.dumps(input_data, indent=2))
-    if args.clean:
-        try:
-            shutil.rmtree(temp_dir)
-        except:
-            pass
+    # if args.clean:
+    #     try:
+    #         shutil.rmtree(temp_dir)
+    #     except:
+    #         pass

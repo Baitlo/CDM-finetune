@@ -239,19 +239,19 @@ def latex2bbox_color(input_arg):
     with open(tex_filename, "w") as w: 
         print(final_latex, file=w)
     run_cmd(f"pdflatex -interaction=nonstopmode -output-directory={temp_dir} {tex_filename} >/dev/null")
-    try:
-        os.remove(tex_filename)
-        os.remove(log_filename)
-        os.remove(aux_filename)
-    except:
-        pass
+    # try:
+    #     os.remove(tex_filename)
+    #     os.remove(log_filename)
+    #     os.remove(aux_filename)
+    # except:
+    #     pass
     pdf_filename = tex_filename[:-4]+'.pdf'
     if not os.path.exists(pdf_filename):
         log = f"ERROR, Compile pdf failed: {pdf_filename}"
         logging.info(log)
     else:
         convert_pdf2img(pdf_filename, output_base_path)
-        os.remove(pdf_filename)
+        #os.remove(pdf_filename)
         
         crop_image(output_base_path)
         bbox_list = extrac_bbox_from_color_image(output_base_path, color_list)

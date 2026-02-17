@@ -61,8 +61,8 @@ def process_latex(groundtruths, predictions, user_id="test"):
             latex2bbox_color(input_arg)
             b = time.time()
         
-    for subset in ['gt', 'pred']:
-        shutil.rmtree(os.path.join(temp_dir, f"{user_id}_{subset}"))    
+    # for subset in ['gt', 'pred']:
+    #     shutil.rmtree(os.path.join(temp_dir, f"{user_id}_{subset}"))    
     
 
 def update_inliers(ori_inliers, sub_inliers):

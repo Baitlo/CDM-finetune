@@ -1,0 +1,96 @@
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [7, 32, 22, 58], "token": "\\delta"}
+{"bbox": [23, 33, 48, 57], "token": "F"}
+{"bbox": [76, 44, 100, 53], "token": "="}
+{"bbox": [110, 29, 131, 67], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [], "token": "𝐫"}
+{"bbox": [144, 17, 153, 79], "token": "\\left["}
+{"bbox": [156, 47, 219, 50], "token": "\\frac"}
+{"bbox": [157, 24, 171, 42], "token": "\\partial"}
+{"bbox": [171, 24, 184, 46], "token": "f"}
+{"bbox": [186, 23, 193, 47], "token": "\\left("}
+{"bbox": [194, 30, 209, 46], "token": "\\varphi"}
+{"bbox": [209, 23, 216, 47], "token": "\\right)"}
+{"bbox": [173, 52, 187, 70], "token": "\\partial"}
+{"bbox": [187, 58, 202, 74], "token": "\\varphi"}
+{"bbox": [222, 32, 237, 58], "token": "\\delta"}
+{"bbox": [237, 41, 258, 65], "token": "\\varphi"}
+{"bbox": [257, 17, 267, 79], "token": "\\right]"}
+{"bbox": [282, 36, 306, 60], "token": "+"}
+{"bbox": [314, 29, 335, 67], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [], "token": "𝐫"}
+{"bbox": [345, 7, 363, 89], "token": "\\left\\{"}
+{"bbox": [369, 47, 494, 50], "token": "\\frac"}
+{"bbox": [370, 19, 384, 37], "token": "\\partial"}
+{"bbox": [386, 13, 393, 48], "token": "\\left["}
+{"bbox": [395, 28, 407, 31], "token": "\\frac"}
+{"bbox": [397, 15, 405, 27], "token": "1"}
+{"bbox": [396, 32, 405, 44], "token": "2"}
+{"bbox": [410, 19, 431, 36], "token": "K"}
+{"bbox": [432, 18, 439, 42], "token": "\\left("}
+{"bbox": [440, 19, 459, 37], "token": "\\nabla"}
+{"bbox": [460, 25, 475, 41], "token": "\\varphi"}
+{"bbox": [475, 18, 482, 42], "token": "\\right)"}
+{"bbox": [483, 13, 490, 48], "token": "\\right]"}
+{"bbox": [396, 52, 410, 70], "token": "\\partial"}
+{"bbox": [410, 51, 417, 75], "token": "\\left("}
+{"bbox": [419, 52, 433, 70], "token": "\\partial"}
+{"bbox": [431, 60, 440, 76], "token": "j"}
+{"bbox": [443, 58, 458, 74], "token": "\\varphi"}
+{"bbox": [459, 51, 466, 75], "token": "\\right)"}
+{"bbox": [497, 32, 512, 58], "token": "\\delta"}
+{"bbox": [520, 31, 529, 66], "token": "\\left("}
+{"bbox": [530, 32, 549, 58], "token": "\\partial"}
+{"bbox": [547, 46, 559, 67], "token": "j"}
+{"bbox": [562, 41, 583, 65], "token": "\\varphi"}
+{"bbox": [583, 31, 593, 66], "token": "\\right)"}
+{"bbox": [599, 7, 617, 89], "token": "\\right\\}"}
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [165, 104, 189, 113], "token": "="}
+{"bbox": [200, 89, 221, 127], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [], "token": "𝐫"}
+{"bbox": [229, 91, 236, 126], "token": "\\left["}
+{"bbox": [236, 101, 255, 125], "token": "\\mu"}
+{"bbox": [256, 92, 271, 118], "token": "\\delta"}
+{"bbox": [271, 101, 292, 125], "token": "\\varphi"}
+{"bbox": [292, 91, 299, 126], "token": "\\right]"}
+{"bbox": [309, 96, 333, 120], "token": "+"}
+{"bbox": [342, 89, 363, 127], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [370, 101, 384, 118], "token": "s"}
+{"bbox": [392, 91, 399, 126], "token": "\\left["}
+{"bbox": [399, 93, 428, 117], "token": "K"}
+{"bbox": [429, 92, 448, 118], "token": "\\partial"}
+{"bbox": [447, 111, 462, 123], "token": "n"}
+{"bbox": [464, 101, 485, 125], "token": "\\varphi"}
+{"bbox": [485, 92, 500, 118], "token": "\\delta"}
+{"bbox": [501, 101, 522, 125], "token": "\\varphi"}
+{"bbox": [521, 91, 528, 126], "token": "\\right]"}
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [192, 144, 216, 153], "token": "="}
+{"bbox": [227, 147, 249, 150], "token": "-"}
+{"bbox": [257, 129, 278, 167], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [], "token": "𝐫"}
+{"bbox": [287, 131, 294, 166], "token": "\\left["}
+{"bbox": [], "token": "𝐠"}
+{"bbox": [295, 146, 301, 151], "token": "\\cdot"}
+{"bbox": [], "token": "𝐮"}
+{"bbox": [302, 131, 309, 166], "token": "\\right]"}
+{"bbox": [320, 136, 344, 160], "token": "+"}
+{"bbox": [352, 129, 373, 167], "token": "\\int"}
+{"bbox": [], "token": "𝑑"}
+{"bbox": [380, 141, 394, 158], "token": "s"}
+{"bbox": [403, 131, 410, 166], "token": "\\left["}
+{"bbox": [410, 141, 429, 158], "token": "\\sigma"}
+{"bbox": [429, 154, 444, 166], "token": "n"}
+{"bbox": [443, 149, 451, 166], "token": "i"}
+{"bbox": [429, 130, 443, 146], "token": "\\gamma"}
+{"bbox": [453, 141, 471, 158], "token": "u"}
+{"bbox": [471, 146, 479, 163], "token": "i"}
+{"bbox": [480, 131, 487, 166], "token": "\\right]"}
+{"bbox": [498, 152, 503, 164], "token": ","}
+{"bbox": [], "token": "\\hfill"}

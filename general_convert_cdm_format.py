@@ -2,7 +2,6 @@ import json
 import os
 import re
 
-
 def clean_latex_spaces(latex_str):
     """
     清理LaTeX数学公式中多余的空格，保留必要的语义空格。
@@ -21,14 +20,17 @@ def clean_latex_spaces(latex_str):
     s = s.replace('@@SPACE@@', ' ')
     s = s.replace('@@CONTROL_SPACE@@', r'\ ')
     return s
-def load_jsonl_to_dict(file_path):
+def load_pred_to_dict(file_path):
     """
-    读取 label 文件，存为 {id: tex} 的字典格式。
-    增加了 try-except 以跳过非 json 行（如 shell 里的 warning 或命令）。
+    读取 pred 文件，存为 {id: tex} 的字典格式，方便后续快速查找。
     """
-    data_dict = {}
-    print(f"正在加载 Label 文件: {file_path} ...")
+    pred_dict = {}
+    print(f"正在建立 Pred 索引: {file_path} ...")
     
+    if not os.path.exists(file_path):
+        print(f"[Warning] Pred 文件不存在: {file_path}")
+        return {}
+
     with open(file_path, 'r', encoding='utf-8') as f:
         for line_num, line in enumerate(f, 1):
             line = line.strip()
@@ -36,80 +38,85 @@ def load_jsonl_to_dict(file_path):
                 continue
             try:
                 item = json.loads(line)
-                # 提取 id 和 tex
-                if 'id' in item and 'tex' in item:
-                    data_dict[item['id']] = item['tex']
+                if 'id' in item:
+                    # 注意：如果存在重复ID，后读取的会覆盖先读取的
+                    pred_dict[item['id']] = item.get('tex', "")
             except json.JSONDecodeError:
-                # 跳过无法解析的行（例如命令行输出的 header）
-                print(f"[Warning] Label文件第 {line_num} 行不是有效的JSON，已跳过: {line[:50]}...")
+                # 跳过非 JSON 行
                 continue
     
-    print(f"Label 加载完成，共索引 {len(data_dict)} 条数据。")
-    return data_dict
+    print(f"Pred 索引建立完成，共 {len(pred_dict)} 条数据。")
+    return pred_dict
 
-def convert_results(pred_path, label_path, output_path):
-    # 1. 加载 Label 数据
-    gt_dict = load_jsonl_to_dict(label_path)
+def align_results(pred_path, label_path, output_path):
+    # 1. 先把 Pred 数据加载到内存字典中
+    pred_dict = load_pred_to_dict(pred_path)
     
     results = []
     matched_count = 0
     missing_count = 0
+    total_labels = 0
 
-    print(f"正在处理 Pred 文件: {pred_path} ...")
+    print(f"正在根据 Label 文件生成最终结果: {label_path} ...")
     
-    # 2. 遍历 Pred 文件并匹配
-    with open(pred_path, 'r', encoding='utf-8') as f:
+    # 2. 逐行读取 Label 文件，保证输出顺序和数量与 Label 一致
+    with open(label_path, 'r', encoding='utf-8') as f:
         for line in f:
             line = line.strip()
             if not line:
                 continue
             try:
-                pred_item = json.loads(line)
-                img_id = pred_item.get('id')
-                pred_tex = pred_item.get('tex')
+                label_item = json.loads(line)
+                
+                # 提取必要字段
+                img_id = label_item.get('id')
+                gt_tex = label_item.get('tex', "")
 
+                # 如果这行数据没有id，通常是坏数据，但也可能需要保留结构，
+                # 这里假设没有ID的label行我们无法匹配，选择跳过或保留（视情况而定），
+                # 下面逻辑为：必须有ID才处理
                 if img_id:
-                    # 在 gt_dict 中查找对应的 label
-                    if img_id in gt_dict:
-                        results.append({
-                            "img_id": img_id,
-                            "gt": clean_latex_spaces(gt_dict[img_id]),
-                            "pred": clean_latex_spaces(pred_tex)
-                        })
+                    total_labels += 1
+                    
+                    # 在 Pred 字典中查找
+                    if img_id in pred_dict:
+                        pred_tex = pred_dict[img_id]
                         matched_count += 1
                     else:
-                        # 如果 pred 有 id 但 label 里没找到
+                        # 找不到对应的 pred，置为空字符串
+                        pred_tex = ""
                         missing_count += 1
-                        # 可选：如果你希望即使没有 GT 也保留记录，可以取消下面注释
-                        # results.append({
-                        #     "img_id": img_id,
-                        #     "gt": "", # 或者 None
-                        #     "pred": pred_tex
-                        # })
-
+                    
+                    # 构建结果对象
+                    results.append({
+                        "img_id": img_id,
+                        "gt": clean_latex_spaces(gt_tex),
+                        "pred": clean_latex_spaces(pred_tex)
+                    })
+            
             except json.JSONDecodeError:
+                # 忽略 Label 文件中的非 JSON 行（如 shell 输出信息）
                 continue
 
-    # 3. 输出结果到 JSON 文件
+    # 3. 写入文件
     print(f"正在写入结果到: {output_path}")
     with open(output_path, 'w', encoding='utf-8') as f:
-        # ensure_ascii=False 保证中文或特殊字符正常显示，indent=4 美化输出
         json.dump(results, f, indent=4, ensure_ascii=False)
 
     print("-" * 30)
     print(f"处理完成！")
-    print(f"成功匹配: {matched_count} 条")
-    print(f"未找到GT: {missing_count} 条")
-    print(f"结果已保存至: {output_path}")
+    print(f"Label总数: {total_labels}")
+    print(f"成功匹配 Pred: {matched_count}")
+    print(f"缺失 Pred (置空): {missing_count}")
+    print(f"输出文件条数: {len(results)}")
 
 if __name__ == "__main__":
-    # --- 在这里修改你的文件路径 ---
-    pred_file = "/home/baiweikang/Projects/Taichi/latex_infer_result_18.jsonl"      # 你的预测文件路径
-    label_file = "/remote-home/baiweikang/CMER_Bench_1_0_total.jsonl"    # 你的标签文件路径
-    output_file = "cdm_infer_result_18.json"   # 输出结果路径
+    # --- 请在此处修改文件路径 ---
+    pred_file = "/cdm/code/latex_infer_output/latex_infer_result_31.jsonl"      # 你的预测文件路径
+    label_file = "/cdm/data/CMER_Bench_1_0_total.jsonl"    # 你的标签文件路径
+    output_file = "/cdm/code/cdm_infer_result/cdm_infer_result_31.json"   # 输出结果路径
     
-    # 检查文件是否存在
-    if not os.path.exists(pred_file) or not os.path.exists(label_file):
-        print("错误: 找不到输入文件，请检查代码底部的路径配置。")
+    if not os.path.exists(label_file):
+        print(f"错误: 找不到 Label 文件 {label_file}")
     else:
-        convert_results(pred_file, label_file, output_file)
+        align_results(pred_file, label_file, output_file)

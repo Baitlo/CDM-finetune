@@ -222,7 +222,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--input', '-i', type=str, default="assets/example/input_example.json")
     parser.add_argument('--output', '-o', type=str, default="output")
-    parser.add_argument('--pools', '-p', type=int, default=1)
+    parser.add_argument('--pools', '-p', type=int, default=128)
     args = parser.parse_args()
     print(args)
     
@@ -277,8 +277,8 @@ if __name__ == '__main__':
     b = time.time()
     print(datetime.now().strftime('%Y-%m-%d %H:%M:%S'), "extract bbox done, time cost:", round(b-a, 3), "s")
     
-    for subset in ['gt', 'pred']:
-        shutil.rmtree(os.path.join(temp_dir, f"{exp_name}_{subset}"))
+    # for subset in ['gt', 'pred']:
+    #     shutil.rmtree(os.path.join(temp_dir, f"{exp_name}_{subset}"))
     
     c = time.time()
     metrics_res, metric_res_path, match_vis_dir = evaluation(args.output, exp_name)

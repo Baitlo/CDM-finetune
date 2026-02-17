@@ -1,0 +1,5 @@
+{"bbox": [963, 31, 980, 48], "token": "x}{\\partial"}
+{"bbox": [1000, 31, 1016, 54], "token": "y}\\frac{\\partial}{\\partial"}
+{"bbox": [1038, 31, 1055, 48], "token": "x}\\frac{u(x)}{1+s{f}^{\\prime}(x)}\\right)}^{2}\\frac{\\partial"}
+{"bbox": [], "token": "y}{\\partial"}
+{"bbox": [264, 166, 281, 183], "token": "x}ðĿĳĳx={\\frac{{d}^{2}}{d{s}^{2}}|}_{s=0}{\\int}_{{S}^{1}}{\\left(\\frac{1}{1+s{f}^{\\prime}(x)}{\\partial}_{x}\\frac{u(x)}{1+s{f}^{\\prime}(x)}\\right)}^{2}(1+s{f}^{\\prime}(x))ðĿĳĳx={\\frac{{d}^{2}}{d{s}^{2}}|}_{s=0}{\\int}_{{S}^{1}}\\frac{{((1+s{f}^{\\prime}(x)){u}^{\\prime}(x)-su(x){f}^{\\prime\\prime}(x))}^{2}}{{(1+s{f}^{\\prime}(x))}^{3}}ðĿĳĳx=2{\\int}_{{S}^{1}}\\left\\{{({f}^{\\prime\\prime}u)}^{2}+8{({f}^{\\prime\\prime}u)({f}^{\\prime}{u}^{\\prime})+6{({f}^{\\prime}{u}^{\\prime})}^{2}\\right\\}ðĿĳĳx.(37)\\hfill\\end{array}"}

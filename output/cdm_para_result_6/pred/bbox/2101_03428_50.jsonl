@@ -1,0 +1,314 @@
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [7, 14, 29, 34], "token": "⟨"}
+{"bbox": [37, 7, 67, 42], "token": "\\prod"}
+{"bbox": [74, 10, 84, 34], "token": "i"}
+{"bbox": [94, 20, 118, 29], "token": "="}
+{"bbox": [131, 10, 143, 33], "token": "1"}
+{"bbox": [145, 17, 164, 34], "token": "n"}
+{"bbox": [165, 8, 184, 40], "token": "f"}
+{"bbox": [184, 10, 194, 34], "token": "i"}
+{"bbox": [197, 28, 202, 40], "token": ","}
+{"bbox": [210, 7, 240, 42], "token": "\\prod"}
+{"bbox": [247, 10, 257, 34], "token": "i"}
+{"bbox": [267, 20, 291, 29], "token": "="}
+{"bbox": [304, 10, 316, 33], "token": "1"}
+{"bbox": [318, 17, 337, 34], "token": "n"}
+{"bbox": [336, 17, 353, 40], "token": "g"}
+{"bbox": [354, 10, 364, 34], "token": "i"}
+{"bbox": [374, 20, 398, 29], "token": "="}
+{"bbox": [410, 14, 432, 34], "token": "⟨"}
+{"bbox": [440, 7, 474, 42], "token": "\\sum"}
+{"bbox": [480, 9, 497, 34], "token": "k"}
+{"bbox": [507, 20, 531, 29], "token": "="}
+{"bbox": [542, 10, 557, 34], "token": "0"}
+{"bbox": [558, 17, 577, 34], "token": "n"}
+{"bbox": [578, 17, 595, 34], "token": "x"}
+{"bbox": [596, 9, 613, 34], "token": "k"}
+{"bbox": [614, 17, 630, 40], "token": "y"}
+{"bbox": [631, 17, 650, 34], "token": "n"}
+{"bbox": [659, 23, 681, 26], "token": "-"}
+{"bbox": [691, 9, 708, 34], "token": "k"}
+{"bbox": [715, 7, 749, 42], "token": "\\sum"}
+{"bbox": [757, 10, 769, 33], "token": "1"}
+{"bbox": [782, 10, 804, 38], "token": "\\le"}
+{"bbox": [816, 10, 826, 34], "token": "i"}
+{"bbox": [829, 10, 841, 33], "token": "1"}
+{"bbox": [845, 28, 850, 33], "token": "."}
+{"bbox": [854, 28, 859, 33], "token": "."}
+{"bbox": [863, 28, 868, 33], "token": "."}
+{"bbox": [870, 10, 880, 34], "token": "i"}
+{"bbox": [881, 9, 898, 34], "token": "k"}
+{"bbox": [910, 10, 932, 38], "token": "\\le"}
+{"bbox": [944, 17, 963, 34], "token": "n"}
+{"bbox": [965, 10, 977, 33], "token": "1"}
+{"bbox": [990, 10, 1012, 38], "token": "\\le"}
+{"bbox": [1024, 10, 1034, 34], "token": "i"}
+{"bbox": [1035, 9, 1052, 34], "token": "k"}
+{"bbox": [1060, 12, 1084, 36], "token": "+"}
+{"bbox": [1095, 10, 1107, 33], "token": "1"}
+{"bbox": [1111, 28, 1116, 33], "token": "."}
+{"bbox": [1120, 28, 1125, 33], "token": "."}
+{"bbox": [1129, 28, 1134, 33], "token": "."}
+{"bbox": [1136, 10, 1146, 34], "token": "i"}
+{"bbox": [1147, 17, 1166, 34], "token": "n"}
+{"bbox": [1177, 10, 1199, 38], "token": "\\le"}
+{"bbox": [1211, 17, 1230, 34], "token": "n"}
+{"bbox": [1230, 17, 1250, 34], "token": "\\alpha"}
+{"bbox": [1251, 10, 1261, 34], "token": "i"}
+{"bbox": [1264, 10, 1276, 33], "token": "1"}
+{"bbox": [1281, 28, 1286, 33], "token": "."}
+{"bbox": [1290, 28, 1295, 33], "token": "."}
+{"bbox": [1299, 28, 1304, 33], "token": "."}
+{"bbox": [1306, 17, 1326, 34], "token": "\\alpha"}
+{"bbox": [1327, 10, 1337, 34], "token": "i"}
+{"bbox": [1338, 9, 1355, 34], "token": "k"}
+{"bbox": [1356, 8, 1375, 40], "token": "\\beta"}
+{"bbox": [1376, 10, 1386, 34], "token": "i"}
+{"bbox": [1387, 9, 1404, 34], "token": "k"}
+{"bbox": [1412, 12, 1436, 36], "token": "+"}
+{"bbox": [1447, 10, 1459, 33], "token": "1"}
+{"bbox": [1463, 28, 1468, 33], "token": "."}
+{"bbox": [1472, 28, 1477, 33], "token": "."}
+{"bbox": [1481, 28, 1486, 33], "token": "."}
+{"bbox": [1488, 8, 1507, 40], "token": "\\beta"}
+{"bbox": [1509, 10, 1519, 34], "token": "i"}
+{"bbox": [1520, 17, 1539, 34], "token": "n"}
+{"bbox": [1541, 28, 1546, 40], "token": ","}
+{"bbox": [1554, 7, 1588, 42], "token": "\\sum"}
+{"bbox": [1594, 9, 1611, 34], "token": "k"}
+{"bbox": [1622, 20, 1630, 29], "token": "="}
+{"bbox": [], "token": "0"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "x"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "y"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "="}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "="}
+{"bbox": [], "token": "0"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "!"}
+{"bbox": [], "token": "("}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": ")"}
+{"bbox": [], "token": "!"}
+{"bbox": [], "token": "("}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": ")"}
+{"bbox": [], "token": "("}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": ")"}
+{"bbox": [], "token": "("}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\le"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\alpha"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "k"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "."}
+{"bbox": [], "token": "\\beta"}
+{"bbox": [], "token": "\\prime"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "n"}
+{"bbox": [], "token": ")"}
+{"bbox": [], "token": "\\hfill"}

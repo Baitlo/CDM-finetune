@@ -1,0 +1,150 @@
+{"bbox": [], "token": "\\hfill"}
+{"bbox": [7, 19, 17, 43], "token": "i"}
+{"bbox": [18, 17, 37, 43], "token": "\\partial"}
+{"bbox": [36, 31, 45, 47], "token": "t"}
+{"bbox": [47, 18, 68, 49], "token": "\\psi"}
+{"bbox": [69, 38, 84, 54], "token": "\\mu"}
+{"bbox": [84, 33, 101, 49], "token": "\\Pi"}
+{"bbox": [112, 29, 136, 38], "token": "="}
+{"bbox": [151, 12, 161, 54], "token": "\\left("}
+{"bbox": [164, 31, 205, 34], "token": "\\frac"}
+{"bbox": [165, 11, 176, 29], "token": "\\delta"}
+{"bbox": [176, 13, 193, 31], "token": "+"}
+{"bbox": [195, 17, 204, 29], "token": "\\epsilon"}
+{"bbox": [179, 37, 190, 53], "token": "2"}
+{"bbox": [215, 21, 239, 45], "token": "+"}
+{"bbox": [248, 18, 275, 42], "token": "D"}
+{"bbox": [276, 30, 285, 46], "token": "1"}
+{"bbox": [287, 30, 304, 46], "token": "\\Pi"}
+{"bbox": [306, 26, 325, 50], "token": "\\mu"}
+{"bbox": [333, 21, 357, 45], "token": "+"}
+{"bbox": [368, 31, 381, 34], "token": "\\frac"}
+{"bbox": [370, 12, 379, 28], "token": "1"}
+{"bbox": [369, 37, 380, 53], "token": "2"}
+{"bbox": [384, 18, 411, 42], "token": "D"}
+{"bbox": [412, 30, 423, 46], "token": "2"}
+{"bbox": [424, 30, 441, 46], "token": "\\Pi"}
+{"bbox": [443, 26, 462, 50], "token": "\\mu"}
+{"bbox": [462, 13, 473, 29], "token": "2"}
+{"bbox": [476, 12, 487, 54], "token": "\\right)"}
+{"bbox": [496, 18, 517, 49], "token": "\\psi"}
+{"bbox": [518, 38, 533, 54], "token": "\\mu"}
+{"bbox": [533, 33, 550, 49], "token": "\\Pi"}
+{"bbox": [560, 32, 582, 35], "token": "-"}
+{"bbox": [594, 31, 634, 34], "token": "\\frac"}
+{"bbox": [595, 12, 603, 29], "token": "i"}
+{"bbox": [604, 17, 617, 29], "token": "\\kappa"}
+{"bbox": [617, 18, 631, 31], "token": "\\Pi"}
+{"bbox": [609, 37, 620, 53], "token": "2"}
+{"bbox": [637, 18, 658, 49], "token": "\\psi"}
+{"bbox": [658, 38, 673, 54], "token": "\\mu"}
+{"bbox": [673, 33, 690, 49], "token": "\\Pi"}
+{"bbox": [701, 32, 723, 35], "token": "-"}
+{"bbox": [732, 26, 751, 49], "token": "\\gamma"}
+{"bbox": [752, 33, 763, 49], "token": "2"}
+{"bbox": [770, 16, 804, 51], "token": "\\sum"}
+{"bbox": [804, 40, 819, 56], "token": "\\mu"}
+{"bbox": [820, 45, 828, 57], "token": "1"}
+{"bbox": [832, 47, 836, 56], "token": ","}
+{"bbox": [837, 40, 852, 56], "token": "\\mu"}
+{"bbox": [852, 45, 861, 57], "token": "2"}
+{"bbox": [867, 7, 888, 15], "token": "\\widehat"}
+{"bbox": [870, 17, 885, 43], "token": "\\delta"}
+{"bbox": [885, 35, 900, 51], "token": "\\mu"}
+{"bbox": [901, 40, 909, 52], "token": "1"}
+{"bbox": [912, 42, 916, 51], "token": ","}
+{"bbox": [917, 35, 932, 51], "token": "\\mu"}
+{"bbox": [933, 40, 941, 52], "token": "1"}
+{"bbox": [945, 39, 961, 41], "token": "-"}
+{"bbox": [961, 35, 976, 51], "token": "\\mu"}
+{"bbox": [976, 40, 985, 52], "token": "2"}
+{"bbox": [989, 18, 1010, 49], "token": "\\psi"}
+{"bbox": [1010, 38, 1025, 54], "token": "\\mu"}
+{"bbox": [1027, 43, 1035, 55], "token": "1"}
+{"bbox": [1038, 45, 1042, 54], "token": ","}
+{"bbox": [], "token": "𝐏"}
+{"bbox": [1045, 18, 1066, 49], "token": "\\psi"}
+{"bbox": [1066, 39, 1081, 55], "token": "\\mu"}
+{"bbox": [1081, 43, 1090, 55], "token": "2"}
+{"bbox": [1093, 34, 1110, 50], "token": "\\Pi"}
+{"bbox": [1067, 15, 1078, 27], "token": "*"}
+{"bbox": [1114, 37, 1119, 49], "token": ","}
+{"bbox": [1127, 19, 1137, 43], "token": "i"}
+{"bbox": [1138, 17, 1157, 43], "token": "\\partial"}
+{"bbox": [1156, 31, 1165, 47], "token": "t"}
+{"bbox": [1167, 18, 1188, 49], "token": "\\psi"}
+{"bbox": [1188, 38, 1203, 54], "token": "\\mu"}
+{"bbox": [1203, 32, 1221, 49], "token": "P"}
+{"bbox": [1232, 29, 1256, 38], "token": "="}
+{"bbox": [1270, 12, 1280, 54], "token": "\\left("}
+{"bbox": [1282, 17, 1297, 43], "token": "\\delta"}
+{"bbox": [1305, 21, 1329, 45], "token": "+"}
+{"bbox": [1337, 18, 1364, 42], "token": "D"}
+{"bbox": [1366, 30, 1375, 46], "token": "1"}
+{"bbox": [1377, 29, 1395, 46], "token": "P"}
+{"bbox": [1396, 26, 1415, 50], "token": "\\mu"}
+{"bbox": [1423, 21, 1447, 45], "token": "+"}
+{"bbox": [1458, 31, 1472, 34], "token": "\\frac"}
+{"bbox": [1460, 12, 1469, 28], "token": "1"}
+{"bbox": [1459, 37, 1470, 53], "token": "2"}
+{"bbox": [1474, 18, 1501, 42], "token": "D"}
+{"bbox": [1502, 30, 1513, 46], "token": "2"}
+{"bbox": [1514, 29, 1532, 46], "token": "P"}
+{"bbox": [1534, 26, 1553, 50], "token": "\\mu"}
+{"bbox": [1553, 13, 1564, 29], "token": "2"}
+{"bbox": [1566, 12, 1577, 54], "token": "\\right)"}
+{"bbox": [1587, 18, 1608, 49], "token": "\\psi"}
+{"bbox": [1608, 38, 1623, 54], "token": "\\mu"}
+{"bbox": [1624, 32, 1631, 49], "token": "P"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\frac"}
+{"bbox": [], "token": "i"}
+{"bbox": [], "token": "\\kappa"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\left("}
+{"bbox": [], "token": "\\psi"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "P"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\widehat"}
+{"bbox": [], "token": "\\delta"}
+{"bbox": [], "token": "0"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "\\mathscr"}
+{"bbox": [], "token": "H"}
+{"bbox": [], "token": "\\right)"}
+{"bbox": [], "token": "-"}
+{"bbox": [], "token": "\\gamma"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\sum"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\widehat"}
+{"bbox": [], "token": "\\delta"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": "+"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\psi"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "1"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "\\Pi"}
+{"bbox": [], "token": "\\psi"}
+{"bbox": [], "token": "\\mu"}
+{"bbox": [], "token": "2"}
+{"bbox": [], "token": "\\Pi"}
+{"bbox": [], "token": ","}
+{"bbox": [], "token": "("}
+{"bbox": [], "token": "3"}
+{"bbox": [], "token": ")"}
+{"bbox": [], "token": "\\hfill"}
